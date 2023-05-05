@@ -1,21 +1,23 @@
 # php-profileImage(마이페이지 프로필 사진)
 
- ![mypage](https://user-images.githubusercontent.com/114225559/192100679-54dca8e3-3fa9-4176-81e5-d6a6e82d0daa.PNG)
- <br>profile img 클릭 시 사진 선택 가능
+
+![profile-photo(mypage)](https://user-images.githubusercontent.com/114225559/236426952-64294e39-b07a-49f6-aebc-fc2449d25c3d.PNG)
+<br>profile img 클릭 시 사진 선택 가능</br>
 
 
- ![캡처](https://user-images.githubusercontent.com/114225559/192100626-755ab363-dbdd-4ad3-8afa-3110bf6a3054.PNG)
- <br>선택한 사진이 db에 저장 될 수 있도록, profile.php 생성
+![profile-1](https://user-images.githubusercont![myimgphp](https://user-images.githubusercontent.com/114225559/236427027-aff5e6af-f2da-4d65-a93e-c74f971b9763.PNG)
+<br>선택한 사진이 db에 저장 될 수 있도록, myimg.php 생성
  
- 
+![profile-photo(mypageJavascript)](https://user-images.githubusercontent.com/114225559/236426990-3414aaaa-2f60-4844-813e-641b07051ad4.PNG)
+<br>선택한 파일이 이미지파일의 확장자이지 정규화식 작성
+
  ![캡처2](https://user-images.githubusercontent.com/114225559/192100628-be03ac89-05ae-4a09-b24d-baf893854eec.PNG)
  <br>db에 성공적으로 올라간 것 확인
 
- 
-![profile-1](https://user-images.githubusercontent.com/114225559/192100616-7aca639e-75d0-4dde-b62f-b4f4ae42e9c7.PNG)
+
+![db2](https://user-images.githubusercontent.com/114225559/236427282-8579b6f5-beb1-491f-a9c9-b18bbe1b51d5.PNG)
 <br>내 프로필을 저장 했다면(이미지 저장) db의 이미지 출력
 
 
-![profile-2](https://user-images.githubusercontent.com/114225559/192100621-1e7995f6-eab8-4c9a-86be-347112e5c5c1.PNG)
-<br>아니라면 기본 이미지 
+<br>아니라면 기본 프로필 이미지 
 
