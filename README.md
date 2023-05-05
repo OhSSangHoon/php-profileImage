@@ -4,14 +4,16 @@
 ![profile-photo(mypage)](https://user-images.githubusercontent.com/114225559/236426952-64294e39-b07a-49f6-aebc-fc2449d25c3d.PNG)
 <br>profile img 클릭 시 사진 선택 가능</br>
 
-![profile-photo(mypageJavascript)](https://user-images.githubusercontent.com/114225559/236427465-04fb4dbd-5235-4d4f-ab27-5c5fee8cc217.PNG)
+
+![profile-photo(mypageJavascript)](https://user-images.githubusercontent.com/114225559/236427872-a7e72f85-12bb-4490-82a2-80b0d12f1740.PNG)
 <br>선택한 파일이 이미지파일의 확장자이지 정규화식 작성</br>
+
 
 ![profile-1](https://user-images.githubusercont![myimgphp](https://user-images.githubusercontent.com/114225559/236427027-aff5e6af-f2da-4d65-a93e-c74f971b9763.PNG)
 <br>선택한 사진이 db에 저장 될 수 있도록, myimg.php 생성</br>
- 
- 
- ![캡처2](https://user-images.githubusercontent.com/114225559/192100628-be03ac89-05ae-4a09-b24d-baf893854eec.PNG)
+
+
+ ![db2](https://user-images.githubusercontent.com/114225559/236427791-56a97643-a037-418d-acd6-cbbd7bf5e715.PNG)
  <br>db에 성공적으로 올라간 것 확인</br>
 
 
